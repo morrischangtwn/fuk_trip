@@ -1,0 +1,5 @@
+{
+  "name": "Fukuoka Travel Companion",
+  "description": "A minimalist, mobile-first travel itinerary manager for Fukuoka, Japan. Includes itinerary tracking, reservation management, navigation helpers, and weather updates.",
+  "requestFramePermissions": []
+}
